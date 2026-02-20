@@ -12,7 +12,7 @@ pour classifier des grains de blé en trois catégories :
 
 Les données proviennent du dataset "Seeds", utilisé en apprentissage automatique.
 
----
+
 
 ##  Objectif
 
@@ -22,7 +22,7 @@ Les données proviennent du dataset "Seeds", utilisé en apprentissage automatiq
 - Identifier les K plus proches voisins
 - Déterminer la classe majoritaire
 
----
+
 
 ## Dataset
 
@@ -41,7 +41,7 @@ Classes :
 2 → Rosa  
 3 → Canadian  
 
----
+
 
 ## Technologies utilisées
 
