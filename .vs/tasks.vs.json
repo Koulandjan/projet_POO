@@ -1,0 +1,20 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskLabel": "tâche-seeds_dataset_test",
+      "appliesTo": "seeds_dataset_test.csv",
+      "type": "launch"
+    },
+    {
+      "taskLabel": "tâche-seeds_dataset_test",
+      "appliesTo": "seeds_dataset_test.csv",
+      "type": "launch"
+    },
+    {
+      "taskLabel": "tâche-projet_POO",
+      "appliesTo": "/",
+      "type": "launch"
+    }
+  ]
+}

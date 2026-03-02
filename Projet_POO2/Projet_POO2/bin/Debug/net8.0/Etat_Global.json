@@ -1,0 +1,31 @@
+{
+  "parametres": {
+    "K": 100,
+    "Distance": "DistanceEuclidienne",
+    "DateExecution": "2026-03-02T12:45:46.1055269-05:00"
+  },
+  "datasets": {
+    "nombreDonneeEntrainement": 139,
+    "nombreDonneeTest": 71
+  },
+  "evaluation": {
+    "matriceConfusion": [
+      [
+        22,
+        0,
+        2
+      ],
+      [
+        1,
+        22,
+        0
+      ],
+      [
+        0,
+        0,
+        24
+      ]
+    ],
+    "exactitude": 95.77464788732394
+  }
+}

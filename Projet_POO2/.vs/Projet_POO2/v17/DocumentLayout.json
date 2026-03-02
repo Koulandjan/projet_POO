@@ -1,0 +1,177 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\OneDrive\\Desktop\\projet_POO\\Projet_POO2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{016D4AF2-7591-428B-ABBA-80BBB80C8F61}|Projet_POO2\\Projet_POO2.csproj|c:\\users\\user\\onedrive\\desktop\\projet_poo\\projet_poo2\\projet_poo2\\jsondonnee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{016D4AF2-7591-428B-ABBA-80BBB80C8F61}|Projet_POO2\\Projet_POO2.csproj|solutionrelative:projet_poo2\\jsondonnee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{016D4AF2-7591-428B-ABBA-80BBB80C8F61}|Projet_POO2\\Projet_POO2.csproj|c:\\users\\user\\onedrive\\desktop\\projet_poo\\projet_poo2\\projet_poo2\\classifieurknn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{016D4AF2-7591-428B-ABBA-80BBB80C8F61}|Projet_POO2\\Projet_POO2.csproj|solutionrelative:projet_poo2\\classifieurknn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{016D4AF2-7591-428B-ABBA-80BBB80C8F61}|Projet_POO2\\Projet_POO2.csproj|c:\\users\\user\\onedrive\\desktop\\projet_poo\\projet_poo2\\projet_poo2\\distancemanhatan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{016D4AF2-7591-428B-ABBA-80BBB80C8F61}|Projet_POO2\\Projet_POO2.csproj|solutionrelative:projet_poo2\\distancemanhatan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{016D4AF2-7591-428B-ABBA-80BBB80C8F61}|Projet_POO2\\Projet_POO2.csproj|c:\\users\\user\\onedrive\\desktop\\projet_poo\\projet_poo2\\projet_poo2\\graine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{016D4AF2-7591-428B-ABBA-80BBB80C8F61}|Projet_POO2\\Projet_POO2.csproj|solutionrelative:projet_poo2\\graine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{016D4AF2-7591-428B-ABBA-80BBB80C8F61}|Projet_POO2\\Projet_POO2.csproj|c:\\users\\user\\onedrive\\desktop\\projet_poo\\projet_poo2\\projet_poo2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{016D4AF2-7591-428B-ABBA-80BBB80C8F61}|Projet_POO2\\Projet_POO2.csproj|solutionrelative:projet_poo2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{016D4AF2-7591-428B-ABBA-80BBB80C8F61}|Projet_POO2\\Projet_POO2.csproj|c:\\users\\user\\onedrive\\desktop\\projet_poo\\projet_poo2\\projet_poo2\\evaluationsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{016D4AF2-7591-428B-ABBA-80BBB80C8F61}|Projet_POO2\\Projet_POO2.csproj|solutionrelative:projet_poo2\\evaluationsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{016D4AF2-7591-428B-ABBA-80BBB80C8F61}|Projet_POO2\\Projet_POO2.csproj|c:\\users\\user\\onedrive\\desktop\\projet_poo\\projet_poo2\\projet_poo2\\distanceeuclidienne.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{016D4AF2-7591-428B-ABBA-80BBB80C8F61}|Projet_POO2\\Projet_POO2.csproj|solutionrelative:projet_poo2\\distanceeuclidienne.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{016D4AF2-7591-428B-ABBA-80BBB80C8F61}|Projet_POO2\\Projet_POO2.csproj|c:\\users\\user\\onedrive\\desktop\\projet_poo\\projet_poo2\\projet_poo2\\distance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{016D4AF2-7591-428B-ABBA-80BBB80C8F61}|Projet_POO2\\Projet_POO2.csproj|solutionrelative:projet_poo2\\distance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{016D4AF2-7591-428B-ABBA-80BBB80C8F61}|Projet_POO2\\Projet_POO2.csproj|c:\\users\\user\\onedrive\\desktop\\projet_poo\\projet_poo2\\projet_poo2\\iclassifieur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{016D4AF2-7591-428B-ABBA-80BBB80C8F61}|Projet_POO2\\Projet_POO2.csproj|solutionrelative:projet_poo2\\iclassifieur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Distance.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Desktop\\projet_POO\\Projet_POO2\\Projet_POO2\\Distance.cs",
+              "RelativeDocumentMoniker": "Projet_POO2\\Distance.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Desktop\\projet_POO\\Projet_POO2\\Projet_POO2\\Distance.cs",
+              "RelativeToolTip": "Projet_POO2\\Distance.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-02T01:14:01.302Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EvaluationSystem.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Desktop\\projet_POO\\Projet_POO2\\Projet_POO2\\EvaluationSystem.cs",
+              "RelativeDocumentMoniker": "Projet_POO2\\EvaluationSystem.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Desktop\\projet_POO\\Projet_POO2\\Projet_POO2\\EvaluationSystem.cs",
+              "RelativeToolTip": "Projet_POO2\\EvaluationSystem.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAYwEQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-01T09:40:43.236Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ClassifieurKNN.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Desktop\\projet_POO\\Projet_POO2\\Projet_POO2\\ClassifieurKNN.cs",
+              "RelativeDocumentMoniker": "Projet_POO2\\ClassifieurKNN.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Desktop\\projet_POO\\Projet_POO2\\Projet_POO2\\ClassifieurKNN.cs",
+              "RelativeToolTip": "Projet_POO2\\ClassifieurKNN.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAYwDYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-02T01:14:02.124Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DistanceManhatan.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Desktop\\projet_POO\\Projet_POO2\\Projet_POO2\\DistanceManhatan.cs",
+              "RelativeDocumentMoniker": "Projet_POO2\\DistanceManhatan.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Desktop\\projet_POO\\Projet_POO2\\Projet_POO2\\DistanceManhatan.cs",
+              "RelativeToolTip": "Projet_POO2\\DistanceManhatan.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-02T01:13:59.031Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DistanceEuclidienne.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Desktop\\projet_POO\\Projet_POO2\\Projet_POO2\\DistanceEuclidienne.cs",
+              "RelativeDocumentMoniker": "Projet_POO2\\DistanceEuclidienne.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Desktop\\projet_POO\\Projet_POO2\\Projet_POO2\\DistanceEuclidienne.cs",
+              "RelativeToolTip": "Projet_POO2\\DistanceEuclidienne.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-02T01:14:00.339Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Graine.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Desktop\\projet_POO\\Projet_POO2\\Projet_POO2\\Graine.cs",
+              "RelativeDocumentMoniker": "Projet_POO2\\Graine.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Desktop\\projet_POO\\Projet_POO2\\Projet_POO2\\Graine.cs",
+              "RelativeToolTip": "Projet_POO2\\Graine.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-02T01:13:55.404Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "JsonDonnee.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Desktop\\projet_POO\\Projet_POO2\\Projet_POO2\\JsonDonnee.cs",
+              "RelativeDocumentMoniker": "Projet_POO2\\JsonDonnee.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Desktop\\projet_POO\\Projet_POO2\\Projet_POO2\\JsonDonnee.cs",
+              "RelativeToolTip": "Projet_POO2\\JsonDonnee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-01T09:38:50.162Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Desktop\\projet_POO\\Projet_POO2\\Projet_POO2\\Program.cs",
+              "RelativeDocumentMoniker": "Projet_POO2\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Desktop\\projet_POO\\Projet_POO2\\Projet_POO2\\Program.cs",
+              "RelativeToolTip": "Projet_POO2\\Program.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAQwF8AAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-02T15:18:48.928Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IClassifieur.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Desktop\\projet_POO\\Projet_POO2\\Projet_POO2\\IClassifieur.cs",
+              "RelativeDocumentMoniker": "Projet_POO2\\IClassifieur.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Desktop\\projet_POO\\Projet_POO2\\Projet_POO2\\IClassifieur.cs",
+              "RelativeToolTip": "Projet_POO2\\IClassifieur.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-02T01:13:47.911Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
